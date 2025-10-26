@@ -11,7 +11,7 @@ Further details can be found in the main article and supplementary material of o
 
 ## Citation
 
-
+If you use this dataset or code, please cite:
 ```bibtex
 @article{amala2023synthetic,
   title={Synthetic aperture anomaly imaging for through-foliage target detection},
